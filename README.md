@@ -13,6 +13,10 @@
 
 ## :zap: Actividad reciente
 
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:last_update -->
+
+
 <!-- START_SECTION:activity -->
 
 <!-- END_SECTION:activity -->
