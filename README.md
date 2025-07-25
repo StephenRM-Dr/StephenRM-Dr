@@ -9,3 +9,11 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/StephenRM-Dr/miPrimerRepo)
+
+
+## :zap: Actividad reciente
+
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
+
