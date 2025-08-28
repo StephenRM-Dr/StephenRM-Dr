@@ -6,7 +6,6 @@
 ### Vias de contacto
 <!-- url de tu pagina web de presentacion/* -->
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FStephenRM-Dr)
-![Website]((https://www.linkedin.com/in/steven-rinc%C3%B3n-medina-a34487117/?trk=opento_sprofile_details))
 
 
 
