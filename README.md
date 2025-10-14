@@ -5,10 +5,38 @@
 ---
 
 ### 🔧 Tech Stack
-- **Frontend:** Vue 3, React, TypeScript, Tailwind CSS  
-- **Backend:** Rust (Axum), PHP (Laravel, WordPress), Node.js  
-- **Databases:** PostgreSQL, MySQL  
-- **Other:** WebSockets, JWT, Docker, Git, WSL  
+
+**Frontend**
+- Vue 3, React, TypeScript, JavaScript (ES6+)
+- Tailwind CSS, CSS3, HTML5
+- Vite, Webpack
+- Animations & UI/UX optimization
+
+**Backend**
+- Rust (Axum, SQLx)
+- PHP (Laravel, WordPress, custom MVC)
+- Node.js (Express)
+- Authentication with JWT, Argon2 password hashing
+- Real‑time communication with WebSockets
+
+**Databases**
+- PostgreSQL, MySQL
+- Database design, migrations, and optimization
+- Cross‑platform troubleshooting (WSL ↔ Windows)
+
+**DevOps & Tools**
+- Docker & Docker Compose
+- Git & GitHub (branching, PRs, workflows)
+- WSL (Windows Subsystem for Linux)
+- CLI & GUI workflows
+- Deployment scripts & automation
+
+**Other Skills**
+- Internationalization (i18n) & SEO best practices
+- Documentation & professional README writing
+- Ghostscript for PDF automation
+- Project organization & reproducible checklists
+
 
 ---
 
