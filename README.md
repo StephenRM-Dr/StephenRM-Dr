@@ -6,10 +6,10 @@
 ---
 
 ## 📈 Impact at a Glance
-* [cite_start]**Reduced operational errors by 30%** through a custom Golang/Vue.js invoicing engine for multi-branch retail[cite: 5].
-* [cite_start]**Optimized financial reconciliation by 45%** by automating expense management systems[cite: 5].
-* [cite_start]**Maintained 99.9% uptime** for a multitenant SaaS platform using Next.js and AWS Amplify[cite: 6].
-* [cite_start]**Real-time synchronization** expert using WebSockets for inventory and sales data across global locations[cite: 6].
+* **Reduced operational errors by 30%** through a custom Golang/Vue.js invoicing engine for multi-branch retail.
+* **Optimized financial reconciliation by 45%** by automating expense management systems.
+* **Maintained 99.9% uptime** for a multitenant SaaS platform using Next.js and AWS Amplify.
+* **Real-time synchronization** expert using WebSockets for inventory and sales data across global locations.
 
 ---
 
@@ -17,19 +17,19 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Golang, TypeScript, Python, Rust, PHP (Laravel) [cite: 4, 42] |
-| **Frontend** | [cite_start]Next.js, React, Vue.js, Vite.js, Tailwind CSS [cite: 4, 43] |
-| **Backend** | [cite_start]Node.js, PostgreSQL (Neon), WebSockets, REST APIs [cite: 4, 44] |
-| **Cloud & Ops** | [cite_start]AWS (Amplify, Route 53), Vercel, Docker, Git (CLI-focused) [cite: 4, 44, 45] |
+| **Languages** | Golang, TypeScript, Python, Rust, PHP (Laravel) |
+| **Frontend** | Next.js, React, Vue.js, Vite.js, Tailwind CSS |
+| **Backend** | Node.js, PostgreSQL (Neon), WebSockets, REST APIs |
+| **Cloud & Ops** | AWS (Amplify, Route 53), Vercel, Docker, Git (CLI-focused) |
 
 ---
 
 ## 📂 Featured Projects
 
 ### [🚀 Rincón Digital 2.0](https://github.com/StephenRM-Dr)
-* [cite_start]**Role:** Lead Developer[cite: 52].
-* [cite_start]**Tech:** Next.js, TypeScript, AWS Amplify[cite: 52].
-* [cite_start]**Achievement:** Architected a multitenant environment with real-time inventory sync.
+* **Role:** Lead Developer.
+* **Tech:** Next.js, TypeScript, AWS Amplify.
+* **Achievement:** Architected a multitenant environment with real-time inventory sync.
 
 ### [📦 vinylnet](https://github.com/StephenRM-Dr)
 * **Core:** Advanced Git workflows and terminal-based management for code integrity.
