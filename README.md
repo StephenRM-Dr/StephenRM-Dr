@@ -50,14 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephenRM-Dr&show_icons=true&theme=tokyonight" alt="Steven's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenRM-Dr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-rincon-medina/)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rincondigital.net)
