@@ -1,38 +1,52 @@
 # Hi there 👋 I'm Steven Rincón Medina
 
-### **Full Stack Product Engineer | Golang • TypeScript • Python**
-**Building scalable SaaS architectures and automating complex operations with a focus on performance and 99.9% uptime.**
+### **Full Stack Developer | TypeScript • Node.js • Go • Python**
+
+**I build internal platforms and payment/finance automations for retail operations — currently going deeper into NestJS and backend architecture.**
 
 ---
 
 ## 📈 Impact at a Glance
-* **Reduced operational errors by 30%** through a custom Golang/Vue.js invoicing engine for multi-branch retail.
-* **Optimized financial reconciliation by 45%** by automating expense management systems.
-* **Maintained 99.9% uptime** for a multitenant SaaS platform using Next.js and AWS Amplify.
-* **Real-time synchronization** expert using WebSockets for inventory and sales data across global locations.
+
+- Built and maintain **VinylPay**, a multi-bank payment validation platform used at a 7-store retail company: idempotent webhooks, OCR receipt parsing, and atomic payment claiming to prevent double-processing.
+- Rewrote a team-built Go ERP as a solo **NestJS + Vue 3 + PostgreSQL** version, adding multi-currency support (VES/COP/USD) and BCV exchange-rate integration.
+- Automated manual expense-reporting and cash-balance workflows with Go and TypeScript services that push reports to WhatsApp/Telegram groups.
 
 ---
 
 ## 🔧 My Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Golang, TypeScript, Python, Rust, PHP (Laravel) |
-| **Frontend** | Next.js, React, Vue.js, Vite.js, Tailwind CSS |
-| **Backend** | Node.js, PostgreSQL (Neon), WebSockets, REST APIs |
-| **Cloud & Ops** | AWS (Amplify, Route 53), Vercel, Docker, Git (CLI-focused) |
+| Category        | Technologies                                                |
+| :-------------- | :---------------------------------------------------------- |
+| **Languages**   | TypeScript, Go, Python, PHP (Laravel)                       |
+| **Frontend**    | Next.js, React, Vue 3, React Native (Expo), Vite            |
+| **Backend**     | Node.js, NestJS, Express, PostgreSQL (Neon), REST APIs      |
+| **Cloud & Ops** | AWS (EC2, RDS), Vercel, Docker, Git                         |
 
 ---
 
 ## 📂 Featured Projects
 
-### [🚀 Rincón Digital 2.0](https://github.com/StephenRM-Dr)
-* **Role:** Lead Developer.
-* **Tech:** Next.js, TypeScript, AWS Amplify.
-* **Achievement:** Architected a multitenant environment with real-time inventory sync.
+### 🚀 [VinylPay — Payment Validator](https://github.com/StephenRM-Dr/payment-validator)
+- **Role:** Solo developer
+- **Tech:** Next.js, TypeScript, PostgreSQL (Neon)
+- Idempotent webhooks, OCR receipt parsing and atomic payment claiming across multiple bank/crypto integrations.
 
-### [📦 vinylnet](https://github.com/StephenRM-Dr)
-* **Core:** Advanced Git workflows and terminal-based management for code integrity.
+### 🏢 [ERP-business](https://github.com/StephenRM-Dr/ERP-business)
+- **Role:** Solo NestJS rewrite of a team-built ERP
+- **Tech:** NestJS, Vue 3, PostgreSQL
+- Multi-branch, multi-currency ERP & POS (sanitized demo).
+
+### 💰 [Verification of Expenses](https://github.com/StephenRM-Dr/verification-of-expenses)
+- **Tech:** Go, PostgreSQL, WhatsApp integration
+- Expense ledger by bank account and category with media evidence and automatic WhatsApp notifications.
+
+### 🏋️ [FitCoachApp](https://github.com/StephenRM-Dr/FitCoachApp)
+- **Tech:** React Native (Expo), Laravel API
+- Personal training platform: coaches plan periodized programs, clients track workouts, nutrition and progress.
+
+### 🍽️ [Rincón Digital](https://rincondigital.net)
+- Independent product in early stage: interactive digital menus with WhatsApp order channeling for restaurants. Hosted on AWS.
 
 ---
 
@@ -48,7 +62,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-rincon-medina/)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rincondigital.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenrm09@gmail.com)
-
----
-
-## ⚡ Recent Activity
